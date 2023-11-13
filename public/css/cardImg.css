@@ -1,0 +1,6 @@
+/* Estilo adicional para las imágenes de las tarjetas */
+.fixed-size-img {
+    width: 200px; /* Tamaño fijo en píxeles (ajusta según tus necesidades) */
+    height: 200px; /* Tamaño fijo en píxeles (ajusta según tus necesidades) */
+    object-fit: cover;
+}

@@ -1,0 +1,18 @@
+input[type = "date"]{
+    background: rgb(56, 75, 242) ;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: blanchedalmond;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+}
+
+::-webkit-calendar-picker-indicator{
+    background-color: #ffff;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
