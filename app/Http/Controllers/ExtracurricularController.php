@@ -14,4 +14,9 @@ class ExtracurricularController extends Controller
     public function create(){//manda a form de registro de una extracurricular nueva
         return view('extracurricular.create');
     }
+
+
+    public function update(){//manda a form de registro de una extracurricular nueva
+        return view('extracurricular.update');
+    }
 }

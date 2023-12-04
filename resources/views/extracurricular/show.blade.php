@@ -16,26 +16,32 @@ botones flotantes los 3-->
         <li>
             <h3>Atletismo</h3>
             <p>Categoria: Deportiva</p>
+            <a href="{{ url('/extracurriculares/actualizar') }}">✐</a>
         </li>
         <li>
             <h3>Tenis</h3>
             <p>Categoria: Deportiva</p>
+            <a href="{{ url('/extracurriculares/actualizar') }}">✐</a>
         </li>
         <li>
             <h3>Fútbol</h3>
             <p>Categoria: Deportiva</p>
+            <a href="{{ url('/extracurriculares/actualizar') }}">✐</a>
         </li>
         <li>
             <h3>Fútbol americano</h3>
             <p>Categoria: Deportiva</p>
+            <a href="{{ url('/extracurriculares/actualizar') }}">✐</a>
         </li>
         <li>
             <h3>Basquetbol</h3>
             <p>Categoria: Deportiva</p>
+            <a href="{{ url('/extracurriculares/actualizar') }}">✐</a>
         </li>
         <li>
             <h3>Voleibol</h3>
             <p>Categoria: Deportiva</p>
+            <a href="{{ url('/extracurriculares/actualizar') }}">✐</a>
         </li>
 
         <!-- Agrega más elementos según sea necesario -->
